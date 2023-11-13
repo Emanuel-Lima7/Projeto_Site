@@ -1,0 +1,16 @@
+.logo {
+    transform: translateX(-2px);
+}
+
+.navbar{
+    background-color:  #800033;
+}
+
+.c-item {
+    height: 480px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+}
