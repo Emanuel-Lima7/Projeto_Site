@@ -1,16 +1,41 @@
 .logo {
-    transform: translateX(-2px);
+    transform: translateY(-2px);
+
 }
 
 .navbar{
-    background-color:  #800033;
+    background-color: #3d0a49;
+}
+
+.background {
+    background-color: #e0daf7;
 }
 
 .c-item {
-    height: 480px;
+    height: 380px;
 }
 
 .c-img {
     height: 100%;
     object-fit: cover;
+}
+
+.c-img2 {
+    height: 380px;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-bottom-right-radius: 0px;
+
+}
+
+.card {
+    background-color: #268fbe;
+}
+
+.button {
+    background-color: #2cb8b2;
 }
