@@ -57,34 +57,17 @@
             <img src="./images/nova_imagem.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
 
             <div class="container">
-              <h3 class="text-center mt-5">Rockstar Games anuncia oficialmente GTA 6 e confirma primeiro trailer para dezembro</h3>
+              <h3 class="text-center mt-5">Título da notícia 2...</h3>
               <hr>
-              <p class="text-start fs-5">De acordo com a Bloomberg o trailer de GTA 6 será lançado em dezembro para marcar os 25 anos da Rockstar Games
-                <br>
-                <br>
-                <br>
-                A Rockstar Games anunciou nesta quarta-feira, 8, o jogo Grand Theft Auto VI, próximo capítulo de uma das franquias mais populares no mundo. 
-                De acordo com a Bloomberg, o trailer está previsto para ser lançado em dezembro para marcar os 25 anos da produtora.
-                <br>
-                <br>
-                <br>
-                A Rockstar confirmou pela primeira vez que estava trabalhando no GTA 6 em fevereiro de 2022. O jogo contará com uma protagonista feminina jogável 
-                pela primeira vez, de acordo com fontes da produtora de games. A mulher é latina e será uma das protagonistas de uma história influenciada pelos
-                 assaltantes de banco Bonnie e Clyde.
-                <br>
-                <br>
-                <br>
-                 
-              </p>
+              <p class="text-start fs-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor aperiam eum soluta laudantium?
+                 Cumque explicabo odit reprehenderit quos mollitia iure ratione praesentium ab debitis earum, soluta voluptatum blanditiis amet incidunt?</p>
             </div>
 
             <img src="./images/nova_imagem.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
-            <br>
-            <br>
+
             <div class="container">
-              <p class="text-start fs-5">O novo mapa do jogo agora está focado em uma versão fictícia de Miami e seus arredores. O plano da Rockstar é atualizar continuamente o jogo ao longo do tempo, 
-                 adicionando novas missões e cidades regularmente. Ainda assim, o mundo do jogo continua grande, com mais locais internos do que os jogos anteriores do 
-                 Grand Theft Auto, afetando a linha do tempo.</p>
+              <p class="text-start fs-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor aperiam eum soluta laudantium?
+                  Cumque explicabo odit reprehenderit quos mollitia iure ratione praesentium ab debitis earum, soluta voluptatum blanditiis amet incidunt?</p>
             </div>
               <br>
               <br>
