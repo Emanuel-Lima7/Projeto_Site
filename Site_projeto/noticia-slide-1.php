@@ -29,7 +29,7 @@
                       <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Link</a>
+                      <a class="nav-link" href="#">Lançamentos</a>
                     </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -54,12 +54,12 @@
               </div>
             </nav>
 
-            <img src="./images/nova_imagem.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <img src="./images/GTA-6-woman_new.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
 
             <div class="container">
-              <h3 class="text-center mt-5">Rockstar Games anuncia oficialmente GTA 6 e confirma primeiro trailer para dezembro</h3>
+              <h3 class="text-center mt-5">Rockstar Games anuncia oficialmente GTA 6 e confirma primeiro trailer para dezembro.</h3>
               <hr>
-              <p class="text-start fs-5">De acordo com a Bloomberg o trailer de GTA 6 será lançado em dezembro para marcar os 25 anos da Rockstar Games
+              <p class="text-start fs-5">De acordo com a Bloomberg o trailer de GTA 6 será lançado em dezembro para marcar os 25 anos da Rockstar Games.
                 <br>
                 <br>
                 <br>
@@ -78,7 +78,7 @@
               </p>
             </div>
 
-            <img src="./images/nova_imagem.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <img src="./images/GTA-6-casal.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
             <br>
             <br>
             <div class="container">
