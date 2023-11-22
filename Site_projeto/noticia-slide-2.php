@@ -3,19 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Napoleão</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <div class="background">
-            <nav class="navbar navbar-expand-lg navbar-dark">
+            <nav class="navbar navbar-expand-lg navbar-light">
               <div class="container">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.html">
                   <!--<nav class="navbar bg-body-tertiary">-->
                       <!--<div class="container-fluid">-->
                         <!--<a class="navbar-brand" href="#">-->
-                          <img src="./images/logo_theEnemy.png" alt="Logo" width="30" height="24" class="logo"> The Enemy
+                          <img src="./images/logo-cg.jpg" alt="Logo" width="30" height="24" class="logo"> Cine Games
                         <!--</a>-->
                       <!--</div>-->
                   <!--</nav>-->
@@ -29,45 +29,68 @@
                       <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Lançamentos</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Categorias
-                      </a>
-                      <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="Filmes.php">Filmes</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                      </ul>
+                      <a class="nav-link" href="Trailers.php">Lançamentos</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Login</a>
+                    <a class="nav-link" href="Filmes.php">Filmes</a>
+                  </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Acesso
+                        </a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="index.php">Admin</a></li>
+                      </ul>
                     </li>
                   </ul>
-                  <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar">
-                    <button class="btn btn-outline-light" type="submit">Buscar</button>
-                  </form>
+                  
                 </div>
               </div>
             </nav>
 
-            <img src="./images/nova_imagem.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <img src="./images/napoleao_img2.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
 
             <div class="container">
-              <h3 class="text-center mt-5">Título da notícia 2...</h3>
+              <h3 class="text-center mt-5">Napoleão: filme de líder francês interpretado por Joaquin Phoenix ganha novo trailer.</h3>
               <hr>
-              <p class="text-start fs-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor aperiam eum soluta laudantium?
-                 Cumque explicabo odit reprehenderit quos mollitia iure ratione praesentium ab debitis earum, soluta voluptatum blanditiis amet incidunt?</p>
+              <p class="text-start fs-5">A produção conta história do modesto oficial de artilharia do exército 
+                francês que foi capaz de se tornar imperador, sacudir a Europa por mais de uma década
+                <br>
+                A cinebiografia do líder francês Napoleão Bonaparte, chamada "Napoleão" teve novo trailer divulgado pela  Sony Pictures nesta quarta-feira, 18. 
+                O filme, produzido pela Apple e estrelado por Joaquin Phoenix, estreia dia 23 de novembro nos cinemas.
+                <br>
+                Dirigido por Ridley Scott, cineasta que marcou gerações com “Alien” (1979), “Blade Runner” (1982) e “Gladiador” (2000), o filme traz impressionantes
+                 sequências de batalhas que entraram para a história e detalhes da vida pessoal de Napoleão que o influenciaram na guerra, na política e no amor.
+              </p>
             </div>
 
-            <img src="./images/nova_imagem.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <div class="container">
+              <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-4">
+                    <img src="./images/napoleão trailer.jpg" class="img-fluid card-img d-block " alt="...">
+                  </div>
+                  <div class="col-md-8">
+                    <div class="card-body">
+                      <h5 class="card-title mb-5 mx-auto">Confira o Trailer</h5>
+                      <a href="https://www.youtube.com/watch?v=EI_4r-zM4c8&pp=ygURbmFwb2xlw6NvIHRyYWlsZXI%3D" target="_blank" class="btn btn-outline-secondary">Assistir</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
 
             <div class="container">
-              <p class="text-start fs-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor aperiam eum soluta laudantium?
-                  Cumque explicabo odit reprehenderit quos mollitia iure ratione praesentium ab debitis earum, soluta voluptatum blanditiis amet incidunt?</p>
+              <h3 class="text-center mt-5">História</h3>
+              <hr>
+              <p class="text-start fs-5"> 
+                  A produção conta história do modesto oficial de artilharia do exército francês que foi capaz de se tornar imperador, sacudir a Europa 
+                  por mais de uma década e marcar seu nome como uma das figuras históricas mais influentes de todos os tempos.
+                  <br>
+                  O filme captura a incansável jornada de Bonaparte pelo poder, a partir de sua relação com seu verdadeiro amor, Josephine, 
+                  mostrando as táticas militares utilizadas, políticas visionárias e uma grande sequência de batalhas.
+                  <br>
+              </p>
             </div>
               <br>
               <br>
@@ -75,7 +98,7 @@
     </div>          
               <footer class="bg-dark py-5 ">
                 <div class="container text-light text-center">
-                  <p class="display-5 mb-3">Rodapé</p>
+                  <p class="display-5 mb-3"></p>
                   <small class="text-white-50">&copy; Copyright by Emanuel. All rights reserved. </small>
                 </div>
               </footer>

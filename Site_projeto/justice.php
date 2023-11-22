@@ -11,7 +11,7 @@
     <div class="background">
             <nav class="navbar navbar-expand-lg navbar-light">
               <div class="container">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="#">
                   <!--<nav class="navbar bg-body-tertiary">-->
                       <!--<div class="container-fluid">-->
                         <!--<a class="navbar-brand" href="#">-->
@@ -32,8 +32,8 @@
                       <a class="nav-link" href="Trailers.php">Lançamentos</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="Filmes.php">Filmes</a>
-                  </li>
+                      <a class="nav-link" href="Filmes.php">Filmes</a>
+                    </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Acesso
@@ -48,15 +48,19 @@
               </div>
             </nav>
 
-            <img src="./images/wonka_4x3.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <img src="./images/justice-3x4.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
 
             <div class="container">
-              <h3 class="text-center mt-5">Prelúdio de 'A Fantástica Fábrica de Chocolate', ganha novo trailer; Veja</h3>
+              <h3 class="text-center mt-5">Esquadrão Suicida: Mate a Liga da Justiça é oficialmente adiado por mais um ano</h3>
               <hr>
-              <p class="text-start fs-5">A Warner Bros. divulgou na última quinta-feira (12) o segundo trailer de 'Wonka', filme prelúdio de 'A Fantástica Fábrica de Chocolate', 
-                baseado no livro infantil de Roald Dahl.
-                Nas imagens, o jovem Willy Wonka (Timothée Chalamet) é um inventor determinado a revolucionar a humanidade "um bombom por vez", 
-                mas que precisa desafiar o Cartel do Chocolate para vender seus chocolates inusitados.
+              <p class="text-start fs-5">
+               A desenvolvedora Rocksteady anunciou nesta quinta-feira (13) mais um adiamento para Esquadrão Suicida: Mate a Liga da Justiça.
+               O game com vilões da DC agora será lançado apenas em 2 de fevereiro de 2024, um tempo considerável após a data anterior de 26 de maio de 2023.
+               A notícia chegou por meio do Twitter, com uma declaração: "Tivemos que tomar a difícil, mas necessária decisão de tomar o tempo que precisamos
+               para trabalhar em tornar o jogo a melhor experiência possível para os jogadores.
+               "Agradecemos à nossa incrível comunidade pelo apoio contínuo, paciência e compreensão", continua o texto. 
+               "Há muito que temos a compartilhar nos meses por vir e estamos ansiosos para vê-los em Metropolis no ano que vem".
+
               </p>
             </div>
 
@@ -64,28 +68,44 @@
               <div class="card mb-3 mx-auto" style="max-width: 540px;">
                 <div class="row g-0">
                   <div class="col-md-4">
-                    <img src="./images/wonka-poster.jpg" class="img-fluid card-img d-block " alt="...">
+                    <img src="./images/arlequina.jpg" class="img-fluid card-img d-block " alt="...">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title mb-5 mx-auto">Confira o Trailer:</h5>
-                      <br>
-                      <br>
-                      <br>
-                      <br>
-                      <br>
-                      <a href="https://www.youtube.com/watch?v=wYmtRhKvmVE&pp=ygUSd29ua2EgdHJhaWxlciAyMDIz" target="_blank" class="btn btn-primary pb-1">Assistir</a>
+                      <h5 class="card-title mb-5 mx-auto">Confira o Trailer</h5>
+                      <a href="https://www.youtube.com/watch?v=2EVFYstVuVk&pp=ygUuc3VpY2lkZSBzcXVhZCBraWxsIHRoZSBqdXN0aWNlIGxlYWd1ZSB0cmFpbGVyIA%3D%3D" target="_blank" class="btn btn-primary">Assistir</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-
             <div class="container">
-              <p class="text-start fs-5">
-              Com muitas sequências musicais, o filme é dirigido por Paul King ('As Aventuras de Paddington') e, além de Chalamet no papel principal e Hugh Grant 
-              como um Oompa-Loompa, o elenco conta com Olivia Colman, Rowan Atkinson, Keegan-Michael Key e Sally Hawkins. A estreia está marcada para 14 de dezembro no Brasil.
+              <hr>
+              <p class="text-start fs-5"> 
+                        Esse é apenas o adiamento mais recente para Mate a Liga da Justiça, cujo lançamento inicial era marcado para 2020 antes de ser movido para 2023.
+                        Em março, a Bloomberg divulgou que o jogo seria adiado após a má recepção dos jogadores durante a exibição no State of Play de fevereiro de 2023.
+                         Durante aquela live, foi revelado que Mate a Liga da Justiça seria um game de live-service com passe de batalha e 
+                         obrigatoriedade de conexão à internet para jogar.
+                  <br>
+                        No entanto, não fica claro se esse adiamento significa que a Rocksteady pretende mudar completamente os elementos live-service do jogo.
+                         Na publicação do artigo da Bloomberg o repórter Jason Schreier apontou que medidas como essa geralmente são feitas para "polimento" e não 
+                         para "alterar significativamente o gameplay".
+                        Esse adiamento significa que Mate a Liga da Justiça será lançado quase nove anos após o game mais recente do Arkhamverso, que foi Arkham Knight.
+                         O título propõe que o jogador escolha entre um de quatro supervilões - Pistoleiro, Arlequina, Tubarão-Rei e Capitão Bumerangue, 
+                         que recebem a missão de impedir a invasão de Brainiac em Metropolis.
+                  <br>
               </p>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+
             </div>
               <br>
               <br>
@@ -100,4 +120,3 @@
   
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
-</html>

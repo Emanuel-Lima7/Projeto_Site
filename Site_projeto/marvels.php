@@ -11,7 +11,7 @@
     <div class="background">
             <nav class="navbar navbar-expand-lg navbar-light">
               <div class="container">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="#">
                   <!--<nav class="navbar bg-body-tertiary">-->
                       <!--<div class="container-fluid">-->
                         <!--<a class="navbar-brand" href="#">-->
@@ -32,8 +32,8 @@
                       <a class="nav-link" href="Trailers.php">Lançamentos</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="Filmes.php">Filmes</a>
-                  </li>
+                      <a class="nav-link" href="Filmes.php">Filmes</a>
+                    </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Acesso
@@ -48,39 +48,23 @@
               </div>
             </nav>
 
-            <img src="./images/Ada_re4.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <img src="./images/marvels-foto.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
 
             <div class="container">
-              <h3 class="text-center mt-5">Resident Evil 4: DLC Separate Ways conclui a trama com chave de ouro </h3>
+              <h3 class="text-center mt-5">'As Marvels' sofre a maior queda de bilheteria da Marvel Studios</h3>
               <hr>
               <p class="text-start fs-5">
-                Para muitos fãs, Resident Evil 4 Remake é um dos grandes nomes do ano — e, quem sabe, até um potencial candidato ao GOTY de 2023. 
-                A Capcom soube definir bem o tom da reimaginação ao trazer ótimas novidades para a saga de Leon e Ashley pelo vilarejo de El Pueblo, mas ainda há muito mais 
-                nos bastidores com o DLC Separate Ways (ou “Caminhos Distintos”, na tradução oficial).
-              <br>
-              <br>
-              Como muitos especularam, o extra chegou ao Resident Evil 4 Remake alguns meses depois, mas a espera realmente valeu a pena — 
-              isso sem mencionar o preço justo para um DLC que tem praticamente o mesmo tempo de duração de Resident Evil 3 Remake.
-              <br>
-              <br> 
+              A bilheteria de As Marvels segue entregando recordes negativos ao Marvel Studios, com a maior queda entre a primeira e a segunda semana em cartaz na 
+              história do estúdio. Em sua segunda semana nos Estados Unidos, As Marvels arrecadou apenas US$ 10,2 milhões, totalizando US$ 65 milhões até hoje. 
+              Os números representaram uma queda de 79% e levaram o longa ao 3º lugar, ficando atrás do novo Jogos Vorazes e a nova sequência de Trolls. 
               </p>
             </div>
 
-            <img src="./images/1122(1).png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
-
+            <img src="./images/marvel-trio.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
             <div class="container">
-              <h3 class="text-center mt-5">Separate Ways abraça a modernidade</h3>
               <p class="text-start fs-5">
-                <hr>
-                O remake de Separate Ways é uma adição indispensável ao jogo base e oferece uma experiência enriquecida que cativa tanto os fãs de longa data quanto novos jogadores. 
-                A base narrativa é semelhante a do material original, mas seu desenvolvimento, desta vez mais emotivo, chega para agregar ainda mais valor ao pacote.
-                A história de Caminhos Distintos permite que os fãs vejam os acontecimentos de Resident Evil 4 sobre as lentes de Ada Wong. A aventura da espiã ocorre simultaneamente
-                 com os eventos da campanha principal, enquanto se une a Luis Serra para recuperar o Âmbar que contém o Las Plagas.
-                 <br>
-                 <br>
-                  Apesar de manter a essência, alguns detalhes específicos da história mudaram substancialmente, trazendo novidades frescas ao enredo e motivos de sobra que justifiquem a jogatina.
-                  Não espere um mergulho profundo na personalidade ou nas motivações de Ada — afinal, a estrela continua sendo Leon. Mas é interessante notar que sua presença em El Pueblo é indispensável para que o agente consiga cumprir a missão de salvar a filha do presidente.
-                  Algumas das adições que agregam ao material original incluem uma relação mais próxima de Ada e Luis, que busca sua redenção e acaba se revelando o “anjo da guarda” de Leon. É uma evolução e tanto se comparado ao personagem do original.
+              Até hoje, a maior queda entre estreia e segunda semana no MCU havia sido Homem-Formiga e a Vespa: Quantumania, em fevereiro, que despencou 69.9% 
+              de uma semana para a outra. Em seu lançamento, As Marvels já havia marcado a história como a pior estreia do estúdio até hoje.
               </p>
             </div>
               <br>
@@ -96,4 +80,3 @@
   
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
-</html>

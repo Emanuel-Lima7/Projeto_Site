@@ -32,8 +32,8 @@
                       <a class="nav-link" href="Trailers.php">Lançamentos</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="Filmes.php">Filmes</a>
-                  </li>
+                      <a class="nav-link" href="Filmes.php">Filmes</a>
+                    </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Acesso
@@ -48,39 +48,27 @@
               </div>
             </nav>
 
-            <img src="./images/Ada_re4.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
+            <img src="./images/freddy.png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
 
             <div class="container">
-              <h3 class="text-center mt-5">Resident Evil 4: DLC Separate Ways conclui a trama com chave de ouro </h3>
+              <h3 class="text-center mt-5">“Five Nights At Freddy's” tem maior bilheteria de estreia de terror do ano</h3>
               <hr>
               <p class="text-start fs-5">
-                Para muitos fãs, Resident Evil 4 Remake é um dos grandes nomes do ano — e, quem sabe, até um potencial candidato ao GOTY de 2023. 
-                A Capcom soube definir bem o tom da reimaginação ao trazer ótimas novidades para a saga de Leon e Ashley pelo vilarejo de El Pueblo, mas ainda há muito mais 
-                nos bastidores com o DLC Separate Ways (ou “Caminhos Distintos”, na tradução oficial).
-              <br>
-              <br>
-              Como muitos especularam, o extra chegou ao Resident Evil 4 Remake alguns meses depois, mas a espera realmente valeu a pena — 
-              isso sem mencionar o preço justo para um DLC que tem praticamente o mesmo tempo de duração de Resident Evil 3 Remake.
-              <br>
-              <br> 
+              Apesar do filme baseado na série de videogames não ter agradado à crítica, já gerou um lucro superior a US$ 100 bilhões para a produtora Blumhouse.
+              Mesmo com as polêmicas entorno de sua estreia, que incluíram até mesmo uma briga generalizada em Londres, o filme “Five Nights At Freddy's: O Pesadelo Sem Fim” 
+              conseguiu bater em seu primeiro final de semana o recorde de maior abertura para um filme de terror neste ano.
+              Após três dias em cartaz, o filme já arrecadou US$ 130,6 milhões nos cinemas do mundo todo, sendo US$ 78 milhões apenas nos Estados Unidos, seguido 
+              por US$ 10,8 milhões vieram do México, US$ 6,3 milhões do Reino Unido, e US$ 3,9 milhões do Brasil.
+
               </p>
             </div>
 
-            <img src="./images/1122(1).png" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
-
+            <img src="./images/trio-five.jpg" class="mx-auto c-img2 d-block m-5" alt="nova imagem">
             <div class="container">
-              <h3 class="text-center mt-5">Separate Ways abraça a modernidade</h3>
               <p class="text-start fs-5">
-                <hr>
-                O remake de Separate Ways é uma adição indispensável ao jogo base e oferece uma experiência enriquecida que cativa tanto os fãs de longa data quanto novos jogadores. 
-                A base narrativa é semelhante a do material original, mas seu desenvolvimento, desta vez mais emotivo, chega para agregar ainda mais valor ao pacote.
-                A história de Caminhos Distintos permite que os fãs vejam os acontecimentos de Resident Evil 4 sobre as lentes de Ada Wong. A aventura da espiã ocorre simultaneamente
-                 com os eventos da campanha principal, enquanto se une a Luis Serra para recuperar o Âmbar que contém o Las Plagas.
-                 <br>
-                 <br>
-                  Apesar de manter a essência, alguns detalhes específicos da história mudaram substancialmente, trazendo novidades frescas ao enredo e motivos de sobra que justifiquem a jogatina.
-                  Não espere um mergulho profundo na personalidade ou nas motivações de Ada — afinal, a estrela continua sendo Leon. Mas é interessante notar que sua presença em El Pueblo é indispensável para que o agente consiga cumprir a missão de salvar a filha do presidente.
-                  Algumas das adições que agregam ao material original incluem uma relação mais próxima de Ada e Luis, que busca sua redenção e acaba se revelando o “anjo da guarda” de Leon. É uma evolução e tanto se comparado ao personagem do original.
+              O feito, que traz ainda à Blumhouse o título com maior abertura da história da produtora, supera a previsão feita anteriormente pelo Deadline, 
+              de que o longa arrecadaria cerca de US$ 68 milhões em seu primeiro final de semana. Agora, o filme torna-se oficialmente maior 
+              estreia para um filme de terror no acumulado do ano, superando “Pânico 6”.
               </p>
             </div>
               <br>
@@ -96,4 +84,3 @@
   
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
-</html>

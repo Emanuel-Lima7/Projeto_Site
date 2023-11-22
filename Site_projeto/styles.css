@@ -4,11 +4,11 @@
 }
 
 .navbar{
-    background-color: #3d0a49;
+    background-image: linear-gradient( to right, #ff5050, #ff9933);
 }
 
 .background {
-    background-color: #e0daf7;
+    background-color: #fff2e6;
 }
 
 .c-item {
@@ -34,7 +34,7 @@
 }
 
 .card {
-    background-color: #268fbe;
+    background-image: linear-gradient( to right, #ff5050, #ff9933);
 }
 
 .button {
@@ -43,5 +43,14 @@
 
 .text-slide{
     color:#e6ffff;
+}
+
+.login{
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
 }
 
