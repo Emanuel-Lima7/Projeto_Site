@@ -1,0 +1,12 @@
+
+Banco de dados para o código funcionar:
+
+
+Nome do banco de dados--->   cadastro
+
+Nome da Tabela----------->   usuarios
+
+Nome das colunas--------->   id------->	int(10) primary key; unsigned; auto_increment
+			     nome-----> varchar(45)
+			     email----> varchar(255)
+			     senha----> varchar(255)
